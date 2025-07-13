@@ -1,0 +1,1 @@
+console.log("Second file inside the Folder 1")
